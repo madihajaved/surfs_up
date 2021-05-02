@@ -16,7 +16,9 @@ Based on the data available, there are 1,700 data points for June and 1,517 data
 
 ![](httphttps://github.com/madihajaved/surfs_up/blob/main/June_temp.png)
 
+
 ![](https://github.com/madihajaved/surfs_up/blob/main/Dec_temp.png)
+
 
 ## Summary
 The analysis shows that the temperature do not vary too much in June and Dec with perhaps the minimum temp being slightly more chilly in December. This supports the case for the business to be sustainable throughout the year. 
