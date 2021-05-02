@@ -26,5 +26,5 @@ The analysis shows that the temperature do not vary too much in June and Dec wit
 However, the following further analysis can also be helpful:
 
 1. Analysis for precipitation data to see if surfing remains feasible throughout the year. 
-2. Analysis for station data to see if reliability of weather data being used. 
+2. Analysis for station data to see reliability of weather data being used. 
  
